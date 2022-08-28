@@ -1,2 +1,2 @@
 # hello-world
-test git and VSC
+This is a test repository to test git and VSC functions
